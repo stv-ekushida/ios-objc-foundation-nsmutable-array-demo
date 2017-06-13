@@ -160,6 +160,7 @@
 				TargetAttributes = {
 					79BDCB5E1EEF67A80049ECC5 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = PCCZJUYRT6;
 						ProvisioningStyle = Automatic;
 					};
 					79BDCB771EEF67A80049ECC5 = {
@@ -351,7 +352,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-objc-foundation-nsmutablearray-demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-objc-foundation-nsmutablearray-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -362,7 +365,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-objc-foundation-nsmutablearray-demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-objc-foundation-nsmutablearray-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
